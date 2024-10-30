@@ -1,0 +1,8 @@
+Instalar o git no visual studio
+
+Ir no prompt e digitar
+git config --global user.email "m.*******@*******.com"
+git config --global user.name "mi*******"
+
+
+
